@@ -3,7 +3,8 @@
 <p align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AliArRidla&show_icons=true&theme=dracula" />
 
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliArRidla&layout=compact" /> 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliArRidla&layout=compact&text_color=dracula)](https://github.com/AliArRidla/github-readme-stats)
+ 
 </p>
 
 ### About me
