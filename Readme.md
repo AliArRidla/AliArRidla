@@ -20,7 +20,9 @@
 
 
 
-<img href="mailto:apple0060ali@gmail.com" align ="left" src="https://img.shields.io/badge/-apple0060ali@gmail.com-blue?style=flatroundedrectangle&logo=Gmail&logoColor=white" /> 
+<a href="mailto:apple0060ali@gmail.com">
+ <img align ="left" src="https://img.shields.io/badge/-apple0060ali@gmail.com-blue?style=flatroundedrectangle&logo=Gmail&logoColor=white" /> 
+</a>
     
 [![Instagram Badge](https://img.shields.io/badge/-ali_ridlaa-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ali_ridlaa_/)](https://www.instagram.com/ali_ridlaa_/)
 
