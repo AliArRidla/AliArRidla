@@ -1,11 +1,11 @@
 ## Hi there :wave: , I'm Ali!!
 
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AliArRidla&show_icons=true&theme=dracula" />
+<div>
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=AliArRidla&show_icons=true&theme=dracula" /> 
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AliArRidla&layout=compact&text_color=dracula)](https://github.com/AliArRidla/github-readme-stats)
  
-</p>
+</div>
 
 ### About me
 
