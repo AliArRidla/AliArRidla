@@ -2,7 +2,7 @@
 <img width="47%" align ="left" src="https://github-readme-stats.vercel.app/api?username=AliArRidla&show_icons=true&theme=dracula" /> 
 <img width="47%" align ="right" src="https://github-readme-streak-stats.herokuapp.com/?user=AliArRidla&theme=tokyonight" alt="mystreak"/>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  </p>
+<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
  
  
 ### About me
