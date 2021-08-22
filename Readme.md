@@ -1,12 +1,10 @@
 ## Hi there :wave: , I'm Ali!!
 
-<p align ="center" >
+<p align ="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AliArRidla&show_icons=true&theme=dracula" /> 
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliArRidla&theme=tokyonight" alt="mystreak"/>
 
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliArRidla&layout=compact&text_color=dracula" /> 
- 
-</div>
 
 ### About me
 
