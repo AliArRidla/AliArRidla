@@ -1,10 +1,10 @@
-## Hi there :wave: , I'm Ali!!
+### Hi there :wave: , I'm Ali!!
 
 <p align ="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=AliArRidla&show_icons=true&theme=dracula" /> 
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=AliArRidla&theme=tokyonight" alt="mystreak"/>
 
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliArRidla&layout=compact&text_color=dracula" /> 
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliArRidla&layout=compact&text_color=dracula" /> 
 
 ### About me
 
@@ -18,18 +18,14 @@
 
 
 ### Connect with me:
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
+  <p align="center">
+    [![Gmail Badge](https://img.shields.io/badge/-apple0060ali@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](apple0060ali@gmail.com)
 
-
-[1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[2.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
-[3.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-
-[1]: https://www.facebook.com/profile.php?id=100007661898469
-[2]: https://dribbble.com/BeeDesigner
-[3]: https://github.com/AliArRidla/
-
+    
+[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/ali_ridlaa_/)](https://www.instagram.com/ali_ridlaa_/)
+    
+  </p>
+  
+  
+  
 
