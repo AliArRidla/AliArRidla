@@ -20,7 +20,7 @@
 
 
 
-<a href="mailto:apple0060ali@gmail.com">
+<a href="mailto:beeunik0@gmail.com">
  <img align ="left" src="https://img.shields.io/badge/-apple0060ali@gmail.com-blue?style=flatroundedrectangle&logo=Gmail&logoColor=white" /> 
 </a>
     
